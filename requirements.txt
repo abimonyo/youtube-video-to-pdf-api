@@ -6,3 +6,7 @@ opencv-python-headless==4.10.0.84
 Pillow==10.4.0
 pytubefix==6.6.3
 gunicorn==20.1.0
+itsdangerous==2.1.2
+Jinja2==3.1.2
+MarkupSafe==2.1.1
+Werkzeug==2.2.2
